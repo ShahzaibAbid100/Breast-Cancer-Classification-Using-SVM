@@ -70,7 +70,6 @@ diagnosis
 13. Evaluate model performance
 14. Experiment with different `C` values
 15. Apply cross-validation
-16. Compare different SVM kernels
 17. Tune hyperparameters using GridSearchCV
 18. Build the final SVM model
 19. Evaluate the final model
@@ -232,10 +231,7 @@ Through this project, I practiced:
 - Feature scaling
 - SVM `C` hyperparameter
 - Linear, RBF and Polynomial kernels
-- Gamma hyperparameter
 - Cross-validation
-- GridSearchCV
-- Hyperparameter tuning
 - Confusion matrix interpretation
 - Precision, Recall and F1-score
 - Model evaluation
